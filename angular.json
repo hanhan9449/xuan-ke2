@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "xuan-ke2"
+    }
+  },
+  "defaultProject": "xuan-ke2",
+  "cli": {
+    "analytics": "0af29959-d136-4c49-8af9-66667f596e34"
+  }
 }
